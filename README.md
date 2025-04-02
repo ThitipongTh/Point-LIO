@@ -183,3 +183,9 @@ PULSAR is a self-rotating UAV actuated by only one motor, [PULSAR](https://githu
 
 ## 7. Contact us
 If you have any questions about this work, please feel free to contact me <hdj65822ATconnect.hku.hk> and Dr. Fu Zhang <fuzhangAThku.hk> via email.
+
+## Update glog error
+Install the following command
+```
+sudo apt install libgoogle-glog-dev
+```
